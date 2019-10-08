@@ -6,19 +6,25 @@
    Review Assignment
    
    Design Style Sheet for Tree and Book Family Home Page
-   Author: 
-   Date:   
+   Author: Yelaina Buford
+   Date:   10/3/19
    
    Filename: tb_visual3.css
 
 */
 
 /* HTML Styles */
-
+html{
+   background-image: url(tb_back5.png);
+}
 
 
 /* Page Body Styles */
-
+body{
+   border-left: 3px solid rgb(169, 130, 88);
+   border-right: 3px solid rgb(169, 130, 88);
+   box 
+}
 
 
 /* Main Styles */
